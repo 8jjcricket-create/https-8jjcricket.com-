@@ -1,11 +1,11 @@
-title: 8JJ Cricket
-description: Live Cricket News, Match Updates & Mini Games
-url: https://8jjcricket.com
-baseurl: ""
-
-markdown: kramdown
+title: "8JJ Cricket"
+description: "Live Cricket News, Match Updates & Mini Games"
 theme: minima
-
+show_excerpts: false
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Disable the top navigation bar
+header_pages: []
