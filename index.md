@@ -9,7 +9,16 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
-
+- [Breaking T20 World Cup Row: PCB Backs Bangladesh Amid ICC Deadlock](./t20-world-cup-row-pcb-backs-bangladesh-icc-deadlock.md)
+- [Suryakumar Yadav: Crucial Take on Form Ahead of NZ T20Is](./suryakumar-yadav-form-ahead-of-nz-t20is.md)
+- [Harry Brook Issues Major Apology After Nightclub Incident](./harry-brook-apology-after-nightclub-incident.md)
+- [Shubman Gill Left Out: Michael Clarke Reacts With Major Insight](./shubman-gill-left-out-michael-clarke-major-insight.md)
+- [Breaking: England ODI Series Key Test for Sri Lanka at Home](./england-odi-series-key-home-test-for-sri-lanka.md)
+- [Major Win as AFG vs WI Opens with Afghanistan Dominance](./afg-vs-wi-opener-afghanistan-dominance.md)
+- [Major Boost as RCB WPL Dominance Seals Playoff Spot](./rcb-wpl-dominance-seals-playoff-spot.md)
+- [Crucial Concern as Michael Bracewell Doubtful for India T20Is](./michael-bracewell-doubtful-for-india-t20is.md)
+- [Crucial Blow as Jake Weatherald Skips BBL Finals Return](./jake-weatherald-skips-bbl-finals.md)
+- [Breaking Virat Kohli Row: Brother Slams Manjrekar Remark](./virat-kohli-brother-slams-manjrekar-remark.md)
 - [G Kamalini Earns Maiden ODI Call-Up vs Australia; Shreyanka Patil Returns to T20I Squad](./g-kamalini-earns-maiden-odi-call-up-vs-australia-shreyanka-patil-returns.md)
 - [Mohammed Siraj Breaks Silence On T20 World Cup Snub, Gives His Verdict On Suryakumar Yadav-Led Side](./siraj-breaks-silence-on-t20wc-snub.md)
 - [Gautam Gambhir Shares Light-Hearted Moment With Rohit Sharma Ahead Of India vs New Zealand 3rd ODI](./gambhir-shares-light-moment-with-rohit-ahead-of-ind-vs-nz-3rd-odi.md)
@@ -25,6 +34,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 ---
 
 Read more at [8jjcricket.com](https://8jjcricket.com)
+
 
 
 
