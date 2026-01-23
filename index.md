@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Spinners Lead Sri Lanka To 19-Run Victory Over England In ODI Series Opener](./sri-lanka-odi-win-england.md)
+- [Gujarat Giants Beat UP Warriorz in WPL 2026 Thriller](./gujarat-giants-wpl-win.md)
+- [Sri Lanka Beat England in ODI Opener](./sri-lanka-beat-england-odi.md)
+- [Sunil Gavaskar Hails Varun Chakravarthy After 1st T20I](./gavaskar-praises-chakravarthy.md)
+- [Eden Gardens Gets 5-Star Boost: ICC Satisfied Ahead of T20 World Cup 2026](./eden-gardens-icc-t20-2026.md)
 - [Breaking T20 World Cup Row: PCB Backs Bangladesh Amid ICC Deadlock](./t20-world-cup-row-pcb-backs-bangladesh-icc-deadlock.md)
 - [Suryakumar Yadav: Crucial Take on Form Ahead of NZ T20Is](./suryakumar-yadav-form-ahead-of-nz-t20is.md)
 - [Harry Brook Issues Major Apology After Nightclub Incident](./harry-brook-apology-after-nightclub-incident.md)
@@ -34,6 +39,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 ---
 
 Read more at [8jjcricket.com](https://8jjcricket.com)
+
 
 
 
