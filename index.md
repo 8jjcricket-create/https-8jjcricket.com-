@@ -9,6 +9,16 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Dewald Brevis Unperturbed as Pretoria Capitals Face Sunrisers Eastern Cape in SA20 Final](./dewald-brevis-pretoria-capitals-sunrisers-eastern-cape-sa20-final.md)
+- [Bangladesh Open Doors for Ex-Captain Shakib Al Hasan’s Return After T20 World Cup Row](./bangladesh-shakib-al-hasan-return-t20-world-cup-row.md)
+- [Perth Scorchers vs Sydney Sixers, BBL Final Live Streaming: When and Where to Watch Live Telecast](./perth-scorchers-vs-sydney-sixers-bbl-final-live-streaming.md)
+- [Pakistan Falls in Line After ICC Warning, Names Squad for T20 World Cup 2026](./pakistan-icc-warning-t20-world-cup-2026-squad.md)
+- [Ranji Trophy: Mohammed Shami’s Five-For Powers Bengal Into Quarter-Finals](./ranji-trophy-mohammed-shami-five-for-bengal-quarter-finals.md)
+- [Bangladesh Cricket Board Faces ICC Setback in T20 World Cup](./bangladesh-cricket-board-faces-icc-setback-t20-world-cup.md)
+- [Abhishek Sharma Reveals Winning T20 World Cup Preparation Secrets](./abhishek-sharma-winning-t20-world-cup-preparation-secrets.md)
+- [Suryakumar Yadav Ends 15-Month Half-Century Drought With Blazing Knock](./suryakumar-yadav-ends-15-month-half-century-drought.md)
+- [Mitchell Santner Admits 300 Might Be Needed Against India](./mitchell-santner-admits-300-needed-against-india.md)
+- [Ranji Trophy Round‑Up: Key Performances Shake Domestic Cricket](./ranji-trophy-round-up-key-performances-domestic-cricket.md)
 - [Spinners Lead Sri Lanka To 19-Run Victory Over England In ODI Series Opener](./sri-lanka-odi-win-england.md)
 - [Gujarat Giants Beat UP Warriorz in WPL 2026 Thriller](./gujarat-giants-wpl-win.md)
 - [Sri Lanka Beat England in ODI Opener](./sri-lanka-beat-england-odi.md)
@@ -39,6 +49,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 ---
 
 Read more at [8jjcricket.com](https://8jjcricket.com)
+
 
 
 
