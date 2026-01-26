@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Shreyas Iyer Retained in Squad After Major Injury Update](./shreyas-iyer-kept-in-squad-following-injury-update.md)
+- [Prize Money Details and List of Awards of SA20.](./prize-money-details-and-list-of-awards-of-sa20.md)
+- ["Did That In Asia Cup As Well": Jasprit Bumrah On Bowling In Death Overs](./did-that-in-asia-cup-as-well-jasprit-bumrah-on-bowling-in-death-overs.md)
+- [Patience And Leadership: Rohit Sharma's Journey To National Glory](./patience-and-leadership-rohit-sharmas-journey-to-national-glory.md)
+- [Bangladesh Betrays Own Players After ICC's T20 World Cup Booting, Makes Mockery Of Cricket Protests](./bangladesh-criticized-for-players-treatment-after-t20-world-cup-booting.md)
 - [Dewald Brevis Unperturbed as Pretoria Capitals Face Sunrisers Eastern Cape in SA20 Final](./dewald-brevis-pretoria-capitals-sunrisers-eastern-cape-sa20-final.md)
 - [Bangladesh Open Doors for Ex-Captain Shakib Al Hasan’s Return After T20 World Cup Row](./bangladesh-shakib-al-hasan-return-t20-world-cup-row.md)
 - [Perth Scorchers vs Sydney Sixers, BBL Final Live Streaming: When and Where to Watch Live Telecast](./perth-scorchers-vs-sydney-sixers-bbl-final-live-streaming.md)
@@ -49,6 +54,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 ---
 
 Read more at [8jjcricket.com](https://8jjcricket.com)
+
 
 
 
