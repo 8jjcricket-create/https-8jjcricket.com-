@@ -1,7 +1,3 @@
----
-title: "Home"
-layout: default
----
 
 # 🏏 Welcome to 8JJ Cricket News Hub
 
@@ -70,3 +66,4 @@ https://8jjcricket.com
 # 🌐 Visit Full Cricket Coverage
 
 👉 https://8jjcricket.com
+
