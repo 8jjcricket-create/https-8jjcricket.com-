@@ -1,17 +1,21 @@
 ---
 ---
+
 @import "minima";
 
-/* ── HIDE MINIMA CHROME ── */
+/* HIDE MINIMA HEADER FOOTER */
+
 .site-header,
 .site-footer {
   display: none !important;
 }
 
-/* ── GOOGLE FONTS ── */
+/* GOOGLE FONTS */
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Source+Serif+4:wght@400;600&family=Inter:wght@400;500;600&display=swap');
 
-/* ── PAGE WRAPPER ── */
+/* PAGE */
+
 .page-content {
   max-width: 750px;
   margin: 56px auto 80px;
@@ -22,7 +26,8 @@
   color: #1c1c1c;
 }
 
-/* ── HEADINGS ── */
+/* HEADINGS */
+
 h1, h2, h3, h4 {
   font-family: 'Playfair Display', Georgia, serif;
   color: #0d1f12;
@@ -50,13 +55,13 @@ h3 {
   color: #15803d;
 }
 
-/* ── LINKS ── */
+/* LINKS */
+
 a {
   color: #15803d;
   text-decoration: none;
   font-weight: 600;
   border-bottom: 1px solid #86efac;
-  transition: color 0.15s, border-color 0.15s;
 }
 
 a:hover {
@@ -64,60 +69,37 @@ a:hover {
   border-bottom-color: #fbbf24;
 }
 
-/* ── PARAGRAPHS ── */
+/* PARAGRAPHS */
+
 p {
   margin: 0 0 1.4em;
 }
 
-strong {
-  font-weight: 700;
-  color: #0d1f12;
-}
+/* BLOCKQUOTE */
 
-em {
-  font-style: italic;
-  color: #374151;
-}
-
-/* ── HORIZONTAL RULE ── */
-hr {
-  border: none;
-  height: 2px;
-  background: linear-gradient(to right, transparent, #16a34a, #d97706, #16a34a, transparent);
-  margin: 2.4em 0;
-  border-radius: 2px;
-}
-
-/* ── BLOCKQUOTE ── */
 blockquote {
   margin: 1.8em 0;
   padding: 16px 22px;
   border-left: 4px solid #16a34a;
   background: #f0fdf4;
   border-radius: 0 6px 6px 0;
-  color: #374151;
-  font-style: italic;
-  font-size: 1.02rem;
 }
 
-blockquote p { margin: 0; }
+/* LISTS */
 
-/* ── LISTS ── */
 ul, ol {
   padding-left: 1.5em;
-  margin-bottom: 1.3em;
 }
 
-li {
-  margin-bottom: 0.35em;
-  line-height: 1.75;
+ul li::marker {
+  color: #16a34a;
 }
 
-ul li::marker { color: #16a34a; }
+/* HR */
 
-/* ── LINKED HEADINGS ── */
-h1 a, h2 a, h3 a {
-  color: inherit;
-  font-weight: inherit;
-  border-bottom: none;
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #16a34a, #d97706, #16a34a, transparent);
+  margin: 2.4em 0;
 }
