@@ -2,14 +2,11 @@
 
 Latest cricket news, match updates, and player insights from around the world.
 
-🌐 **Official Website**  
-https://8jjcricket.com
+🌐 [**Official Website**  ](https://8jjcricket.com)
 
-📊 **Live Cricket Scores**  
-https://www.8jjcricket.com/livescore
+📊 [**Live Cricket Scores** ](https://www.8jjcricket.com/livescore) 
 
-👤 **20,000+ Player Database**  
-https://www.8jjcricket.com/players
+👤 [**20,000+ Player Database**](https://www.8jjcricket.com/players)
 
 Stay updated with international cricket, domestic leagues, player news, and tournament coverage.
 
@@ -69,7 +66,7 @@ Stay updated with international cricket, domestic leagues, player news, and tour
 
 Follow real-time match updates from international and league cricket.
 
-👉 https://www.8jjcricket.com/livescore
+👉 [Live Score](https://www.8jjcricket.com/livescore)
 
 **Features**
 
@@ -84,7 +81,7 @@ Follow real-time match updates from international and league cricket.
 
 Explore **20,000+ professional cricketers** from around the world.
 
-👉 https://www.8jjcricket.com/players
+👉 [Player Profile](https://www.8jjcricket.com/players)
 
 **Features**
 
@@ -99,4 +96,5 @@ Explore **20,000+ professional cricketers** from around the world.
 
 For the latest cricket news, match previews, live scores, and player stats:
 
-👉 https://8jjcricket.com
+👉 [8JJ Cricket](https://8jjcricket.com)
+
