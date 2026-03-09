@@ -1,7 +1,7 @@
 ---
 title: "Babar Azam Form: Crucial Century Silences Critics"
 description: "Babar Azam’s superb century under pressure answers critics and reinforces his status as Pakistan’s batting mainstay."
-date: 2026-02-??  
+date: 2026-02-03 
 author: "8JJ Cricket"
 layout: post
 ---
