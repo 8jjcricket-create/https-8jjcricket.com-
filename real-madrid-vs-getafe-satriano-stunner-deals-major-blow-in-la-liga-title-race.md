@@ -8,13 +8,13 @@ layout: post
 
 # Real Madrid vs Getafe: Satriano Volley Seals Shock Win
 
-In an unexpected turn of events in **La Liga**, **:contentReference[oaicite:0]{index=0}** secured a **shock 1-0 victory** over **:contentReference[oaicite:1]{index=1}** at the **Santiago Bernabéu Stadium**, thanks to a stunning volley from **Martin Satriano**. :contentReference[oaicite:2]{index=2}
+In an unexpected turn of events in **La Liga**, **:contentReference[oaicite:0]{index=0}** secured a **shock 1-0 victory** over **:contentReference[oaicite:1]{index=1}** at the **Santiago Bernabéu Stadium**, thanks to a stunning volley from **Martin Satriano**. 
 
-The decisive moment came in the 39th minute when Satriano connected perfectly with a dipping ball, firing a breathtaking strike into the top corner beyond goalkeeper Thibaut Courtois — a goal that proved enough to silence the home crowd. :contentReference[oaicite:3]{index=3}
+The decisive moment came in the 39th minute when Satriano connected perfectly with a dipping ball, firing a breathtaking strike into the top corner beyond goalkeeper Thibaut Courtois — a goal that proved enough to silence the home crowd. 
 
-Despite dominating possession and creating multiple chances throughout the match, Real Madrid were unable to break down Getafe’s resolute defensive structure, with goalkeeper David Soria producing several key saves. :contentReference[oaicite:4]{index=4}
+Despite dominating possession and creating multiple chances throughout the match, Real Madrid were unable to break down Getafe’s resolute defensive structure, with goalkeeper David Soria producing several key saves. 
 
-This result sees Getafe claim their first win at the Bernabéu in **18 years**, a historic moment for the club and a major upset in the title race. Meanwhile, Real Madrid remain four points behind league leaders Barcelona after consecutive league setbacks. :contentReference[oaicite:5]{index=5}
+This result sees Getafe claim their first win at the Bernabéu in **18 years**, a historic moment for the club and a major upset in the title race. Meanwhile, Real Madrid remain four points behind league leaders Barcelona after consecutive league setbacks. 
 
 ---
 
