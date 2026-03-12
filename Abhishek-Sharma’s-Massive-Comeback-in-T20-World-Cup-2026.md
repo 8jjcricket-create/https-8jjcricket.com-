@@ -11,11 +11,11 @@ layout: post
 
 Abhishek Sharma’s journey in the 2026 T20 World Cup was a story of resilience and determination.
 
-The young Indian opener endured a difficult start to the tournament, registering several low scores and facing growing criticism from fans and analysts. :contentReference[oaicite:2]{index=2}  
+The young Indian opener endured a difficult start to the tournament, registering several low scores and facing growing criticism from fans and analysts. 
 
-However, Sharma bounced back in spectacular fashion when India needed him most. In a crucial match against Zimbabwe, he produced a blazing half-century that helped revive India’s campaign. :contentReference[oaicite:3]{index=3}  
+However, Sharma bounced back in spectacular fashion when India needed him most. In a crucial match against Zimbabwe, he produced a blazing half-century that helped revive India’s campaign. 
 
-His most memorable moment came in the tournament final, where he smashed an explosive **52 off just 21 balls**, providing India with a powerful start and shifting the momentum of the match. :contentReference[oaicite:4]{index=4}  
+His most memorable moment came in the tournament final, where he smashed an explosive **52 off just 21 balls**, providing India with a powerful start and shifting the momentum of the match. 
 
 The comeback performance proved his ability to handle pressure and reaffirmed his status as one of India’s most exciting young T20 batters.
 
@@ -38,12 +38,11 @@ layout: post
 
 Abhishek Sharma’s journey in the 2026 T20 World Cup was a story of resilience and determination.
 
-The young Indian opener endured a difficult start to the tournament, registering several low scores and facing growing criticism from fans and analysts. :contentReference[oaicite:2]{index=2}  
+The young Indian opener endured a difficult start to the tournament, registering several low scores and facing growing criticism from fans and analysts. }  
 
-However, Sharma bounced back in spectacular fashion when India needed him most. In a crucial match against Zimbabwe, he produced a blazing half-century that helped revive India’s campaign. :contentReference[oaicite:3]{index=3}  
+However, Sharma bounced back in spectacular fashion when India needed him most. In a crucial match against Zimbabwe, he produced a blazing half-century that helped revive India’s campaign.
 
-His most memorable moment came in the tournament final, where he smashed an explosive **52 off just 21 balls**, providing India with a powerful start and shifting the momentum of the match. :contentReference[oaicite:4]{index=4}  
-
+His most memorable moment came in the tournament final, where he smashed an explosive **52 off just 21 balls**, providing India with a powerful start and shifting the momentum of the match.
 The comeback performance proved his ability to handle pressure and reaffirmed his status as one of India’s most exciting young T20 batters.
 
 ---
