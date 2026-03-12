@@ -1,5 +1,4 @@
 ---
-title: "---
 title: "Abhishek Sharma’s Massive Comeback in T20 World Cup 2026"
 description: "Abhishek Sharma stages a dramatic comeback during the T20 World Cup with explosive performances."
 date: 2026-03-12
