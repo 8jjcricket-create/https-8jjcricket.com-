@@ -12,8 +12,7 @@ Malolan Rangarajan believes that an England victory at the upcoming Women’s T2
 
 Rangarajan suggested that a successful World Cup campaign on home soil would have a powerful impact on participation levels and fan engagement across England. A major international triumph could inspire a new generation of young girls to take up cricket and follow the sport more closely.
 
-According to Rangarajan, the effect of a home World Cup win can be profound. When a national team lifts a global trophy, it often triggers increased interest in grassroots participation, improved sponsorship opportunities and stronger support for domestic leagues. :contentReference[oaicite:0]{index=0}
-
+According to Rangarajan, the effect of a home World Cup win can be profound. When a national team lifts a global trophy, it often triggers increased interest in grassroots participation, improved sponsorship opportunities and stronger support for domestic leagues. 
 He pointed out that a World Cup victory would encourage more parents to support their daughters in pursuing cricket, helping strengthen the player pipeline for competitions such as The Hundred. The increased visibility could also boost ticket sales and television audiences for the women’s tournament.
 
 The Hundred has already played an important role in raising the profile of women’s cricket in England by providing players with a high-profile platform and competitive salaries. However, Rangarajan believes the competition could reach another level if the national team delivers success on the global stage.
