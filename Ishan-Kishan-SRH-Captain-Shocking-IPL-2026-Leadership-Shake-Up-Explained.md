@@ -17,13 +17,13 @@ You can read the **full original article on 8jjcricket.com** here:
 ---
 
 ## 1. Pat Cummins’ Absence Forced the Change
-Regular captain Pat Cummins is unavailable due to injury, forcing SRH to look for a new leader ahead of the season. :contentReference[oaicite:3]{index=3}  
+Regular captain Pat Cummins is unavailable due to injury, forcing SRH to look for a new leader ahead of the season. 
 
 ## 2. Kishan’s Experience Gave Him the Edge
-SRH management preferred Kishan over other options due to his experience and aggressive style of play. :contentReference[oaicite:4]{index=4}  
+SRH management preferred Kishan over other options due to his experience and aggressive style of play.   
 
 ## 3. Proven Leadership Record
-Kishan has shown strong leadership qualities in domestic cricket, which played a key role in this decision. :contentReference[oaicite:5]{index=5}  
+Kishan has shown strong leadership qualities in domestic cricket, which played a key role in this decision. 
 
 ## 4. Strategic Shift by SRH Management
 The franchise appears to be building a more dynamic and aggressive team, with Kishan at the center of this new vision.
