@@ -17,15 +17,15 @@ You can read the **full original article on 8jjcricket.com** here:
 ---
 
 ## 1. Winning the IPL Trophy for His Team
-Suryavanshi has made it clear that team success comes first. His primary goal is to help Rajasthan Royals lift the IPL trophy, showing maturity beyond his age. :contentReference[oaicite:0]{index=0}  
+Suryavanshi has made it clear that team success comes first. His primary goal is to help Rajasthan Royals lift the IPL trophy, showing maturity beyond his age. :contentReference  
 
 ## 2. Breaking Historic IPL Records
-The teenage prodigy has also expressed his ambition to break iconic records, including the highest individual score in IPL history—currently held by Chris Gayle. :contentReference[oaicite:1]{index=1}  
+The teenage prodigy has also expressed his ambition to break iconic records, including the highest individual score in IPL history—currently held by Chris Gayle. :contentReference 
 
 ---
 
 ## Why These Goals Matter
-Suryavanshi is already one of the youngest and most exciting players in IPL history, having debuted at just 14 and delivered record-breaking performances early in his career. :contentReference[oaicite:2]{index=2}  
+Suryavanshi is already one of the youngest and most exciting players in IPL history, having debuted at just 14 and delivered record-breaking performances early in his career. 
 
 His fearless batting and hunger for success make him one of the biggest players to watch in IPL 2026.
 
