@@ -10,11 +10,11 @@ layout: post
 
 Rajasthan Royals have been dealt a significant blow ahead of **IPL 2026**, with England all-rounder **Sam Curran** ruled out of the tournament due to injury.
 
-Curran is expected to miss the entire season after suffering a suspected groin injury, which has ruled him out of competitive action following the ICC Men’s T20 World Cup. :contentReference[oaicite:0]{index=0}
+Curran is expected to miss the entire season after suffering a suspected groin injury, which has ruled him out of competitive action following the ICC Men’s T20 World Cup. 
 
 The 27-year-old was a key part of Rajasthan Royals’ plans after joining the franchise in a high-profile trade, where he was expected to strengthen both the batting and bowling departments. His absence leaves a major gap in the squad, particularly in the all-rounder role.
 
-Team management are now actively exploring replacement options to maintain balance in the squad. Reports suggest that Rajasthan Royals are considering several overseas and domestic players to fill the void left by Curran. :contentReference[oaicite:1]{index=1}
+Team management are now actively exploring replacement options to maintain balance in the squad. Reports suggest that Rajasthan Royals are considering several overseas and domestic players to fill the void left by Curran. 
 
 Curran’s injury adds to a growing list of player absences ahead of IPL 2026, highlighting the challenges teams face in managing player workloads across international and franchise cricket schedules.
 
