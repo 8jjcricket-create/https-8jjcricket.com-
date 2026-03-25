@@ -1,7 +1,7 @@
 ---
 title: "Yash Dayal Out: Major Blow for RCB in IPL 2026"
 description: "Royal Challengers Bengaluru suffer a significant setback as fast bowler Yash Dayal is ruled out of IPL 2026 due to injury."
-date: 2026-03-24
+date: 2026-03-25
 author: "8JJ Cricket"
 layout: post
 ---
