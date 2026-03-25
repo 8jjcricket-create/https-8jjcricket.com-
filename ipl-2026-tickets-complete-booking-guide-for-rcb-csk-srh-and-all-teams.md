@@ -7,7 +7,7 @@ layout: post
 
 # IPL 2026 Tickets: Complete Booking Guide Every Fan Must Know
 
-IPL 2026 tickets are in high demand, with fans rushing to secure seats as the tournament approaches and excitement builds. :contentReference[oaicite:0]{index=0} matches are expected to sell out quickly, making early booking essential.
+IPL 2026 tickets are in high demand, with fans rushing to secure seats as the tournament approaches and excitement builds.  matches are expected to sell out quickly, making early booking essential.
 
 ---
 
