@@ -8,25 +8,25 @@ layout: post
 
 # Vaibhav Suryavanshi IPL 2026: 5 Stunning Records From His 15-Ball Fifty
 
-The rise of :contentReference[oaicite:0]{index=0} in **IPL 2026** has been nothing short of extraordinary. At just 15, he delivered one of the most explosive innings in league history, smashing a **15-ball half-century** that stunned fans and experts alike.
+The rise of in **IPL 2026** has been nothing short of extraordinary. At just 15, he delivered one of the most explosive innings in league history, smashing a **15-ball half-century** that stunned fans and experts alike.
 
 Here are five incredible records and milestones from that unforgettable knock.
 
 ## 1. One of the Fastest Fifties in IPL History
 
-Suryavanshi’s 15-ball fifty is now among the **fastest ever in IPL history**, placing him alongside some of the most aggressive hitters in the game. :contentReference[oaicite:1]{index=1}
+Suryavanshi’s 15-ball fifty is now among the **fastest ever in IPL history**, placing him alongside some of the most aggressive hitters in the game. :contentReference
 
 ## 2. Youngest Player to Dominate at This Level
 
-At just 15 years old, he has already shown the ability to dominate international-level bowlers, marking him as one of the **youngest breakout stars** in the tournament. :contentReference[oaicite:2]{index=2}
+At just 15 years old, he has already shown the ability to dominate international-level bowlers, marking him as one of the **youngest breakout stars** in the tournament. :contentReference
 
 ## 3. Match-Winning Impact in Record Time
 
-His explosive innings helped :contentReference[oaicite:3]{index=3} chase down the target in just over 12 overs, turning the game into a one-sided contest. :contentReference[oaicite:4]{index=4}
+His explosive innings helped :contentReference[oaicite:3]{index=3} chase down the target in just over 12 overs, turning the game into a one-sided contest. :contentReference
 
 ## 4. Elite Power-Hitting Display
 
-The innings included multiple sixes and boundaries, highlighting his **fearless batting approach** and ability to accelerate from ball one. :contentReference[oaicite:5]{index=5}
+The innings included multiple sixes and boundaries, highlighting his **fearless batting approach** and ability to accelerate from ball one. :contentReference
 
 ## 5. Rising Star of IPL 2026
 
