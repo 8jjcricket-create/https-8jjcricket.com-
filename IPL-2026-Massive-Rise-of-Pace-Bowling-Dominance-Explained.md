@@ -12,7 +12,7 @@ layout: post
 
 IPL 2026 has seen a significant shift towards pace bowling dominance, with fast bowlers playing a decisive role in match outcomes.
 
-Performances like Mohammed Shami’s record-breaking spells highlight how pace has become a key weapon in modern T20 cricket. :contentReference[oaicite:3]{index=3}  
+Performances like Mohammed Shami’s record-breaking spells highlight how pace has become a key weapon in modern T20 cricket.
 
 This trend reflects evolving strategies and conditions favoring aggressive fast bowling.
 
